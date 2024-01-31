@@ -437,7 +437,7 @@ a {
   font-weight: 600;
 }
 
-.course-item .body .book-btn.active {
+.course-item .body .book-btn:hover {
   background-color: var(--primary-color);
 }
 
